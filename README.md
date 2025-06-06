@@ -1,6 +1,8 @@
 # Jalsa
 Jalsa Banquet Hall - Solapur
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -38,7 +40,9 @@ Jalsa Banquet Hall - Solapur
       <img src="https://skillicons.dev/icons?i=maven,vite" />
     </td>
     <td align="center">
-      <!-- Optional extra section -->
+      <!-- Optional Extra Section -->
     </td>
   </tr>
 </table>
+
+</div>
